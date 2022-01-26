@@ -1,0 +1,14 @@
+{
+  "name": "primeiro-projeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marcelofcabral/fin-api.git",
+  "author": "Marcelo F. Cabral <marcelofc12@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
